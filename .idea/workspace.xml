@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c991b892-a8a3-49ed-aaec-a8cd87991388" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Timus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus1/Timus_Enia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus2/Timus_2100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus3/Timus_1409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus4/Timus_1785.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus_1585.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus10/Ural_1820.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus5/Grisha_2012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus6/Bicyle_1877.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus7/MathBerry_2001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus8/work_1264.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus9/MegaTurn_1787.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K2qpziKht5xrpEE2W69yVes6su" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Timus/src",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Timus\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Timus1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c991b892-a8a3-49ed-aaec-a8cd87991388" name="Changes" comment="" />
+      <created>1673183216666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673183216666</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
